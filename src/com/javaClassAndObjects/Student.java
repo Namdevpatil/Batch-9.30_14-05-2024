@@ -8,7 +8,7 @@ public class Student {
 
 	public Student() 
 	{
-		System.out.println("Hello constructor");
+		//System.out.println("Hello constructor");
 	}
 
 	
